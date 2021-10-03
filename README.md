@@ -1,5 +1,5 @@
-# :muscle: Shape Up Project Project :sparkling_heart:
+# :muscle: Shape Up Project Project :weight_lifting:
 
-:weight_lifting: This is a project for the Fundamentals of Web Programming course at Kirkwood Community College. :swimmer:
+:runner: This is a project for the Fundamentals of Web Programming course at Kirkwood Community College. :swimmer:
 
-:bicyclist: Read the [instructions](assets/Shape-Up-instructions.pdf) to get started for each chapter's assignment. :runner:
+:bicyclist: Read the [instructions](assets/Shape-Up-instructions.pdf) to get started for each chapter's assignment. :sparkling_heart:
